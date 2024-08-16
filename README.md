@@ -8,6 +8,8 @@ Conducted Experiments using 5 models on Food 101 Dataset
                       ->Model_Architecture: Feature Extraction -> EfficientNet-B0 (Pretrained on ImageNet, all layers Frozen with no top)
 Accuracy: 0.8268, Loss: 0.6472
 
+![image](https://github.com/user-attachments/assets/9b4d79f6-499d-48b1-9fb2-61d55d4c7b36)
+
 
                       
 ***Experiment 2 (Changes: Data-> 1% and Pre_Processing)***: Model_1 
