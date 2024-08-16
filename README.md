@@ -28,6 +28,10 @@ Accuracy: 35.21%,  Loss: 1.8930
                       ->Data: 10 Classes of Food 101 Data (10% Training Data Only)
                       ->Pre processing: Data Augmentation, Random Flips, Rotation, Zoom, Height, Width
                       ->Model_Architecture: Feature Extraction -> EfficientNet-B0 (Pretrained on ImageNet, all layers Frozen with no top)
+Accuracy: 51.24, Loss: 1.8918
+
+![image](https://github.com/user-attachments/assets/a260a17f-fb20-4ef4-a437-f1df1d965c8e)
+
 
 ***Experiment 4 (Changes: Model_Architecture)***: Model_3 
 
