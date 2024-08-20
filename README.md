@@ -39,7 +39,7 @@ Accuracy: 51.24, Loss: 1.8918
                       ->Pre processing: Data Augmentation, Random Flips, Rotation, Zoom, Height, Width
                       ->Model_Architecture: Fine Tuning -> EfficientNet-B0 with top layer trained on custom data, top 10 layer unfrozen   
 
-accuracy: 48.74%, loss: 2.0333
+Accuracy: 48.74%, Loss: 2.0333
 
 ![image](https://github.com/user-attachments/assets/248642c8-006d-41d8-acef-b53d63e52365)
 
@@ -48,4 +48,9 @@ Experiment 5: Model_4 (Changes: Data)
 
                       -> Data: 10 Classes of Food 101 Data (100% Training Data)
                       ->Pre processing: Data Augmentation, Random Flips, Rotation, Zoom, Height, Width
-                      ->Model_Architecture: Fine Tuning -> EfficientNet-B0 with top layer trained on custom data, top 10 layer unfrozen                       
+                      ->Model_Architecture: Fine Tuning -> EfficientNet-B0 with top layer trained on custom data, top 10 layer unfrozen          
+
+                      
+Accuracy: 84.10 , Loss: 0.4571
+
+![image](https://github.com/user-attachments/assets/6707967b-8e12-4fd5-8a7f-c263f87f5d6f)
